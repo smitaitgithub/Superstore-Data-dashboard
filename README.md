@@ -62,16 +62,16 @@ This project is ideal for:
 
 🏗️ How to Use This Project
 1️⃣ Download the Dashboard
-Download the .pbit (template) file from the repository.
+ Download the .pbit (template) file from the repository.
 
 2️⃣ Open in Power BI Desktop
-Open the file using Power BI Desktop (latest version recommended).
+ Open the file using Power BI Desktop (latest version recommended).
 
 3️⃣ Load or Refresh Data
-If needed, connect it to the Sample Superstore dataset.
+ If needed, connect it to the Sample Superstore dataset.
 
 4️⃣ Interact With the Dashboard
-Use slicers, filters, and visuals to explore insights.
+ Use slicers, filters, and visuals to explore insights.
 
 📘 Learning Outcomes
 Working on this dashboard helps you learn:
